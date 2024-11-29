@@ -1,9 +1,17 @@
 # Leadership-Styles-Docs
 
-Learnig about Leadership Styles
+Learning about Leadership Styles
 
-<a href="./styles/servant/README.md">
+# Intro:
 
-1. Servant Leadership
+- [Intro](./styles/intro/)
 
-</a>
+# Leadership Styles:
+
+- [Democratic Leadership](./styles/democratic/)
+- [Autocratic Leadership](./styles/autocratic/)
+- [Laissez-Faire Leadership](./styles/Laissez-Faire/)
+- [Transformational Leadership](./styles/transformational/)
+- [Transactional Leadership](./styles/transactional/)
+- [Bureaucratic Leadership](./styles/bureaucratic/)
+- [Servant Leadership](./styles/servant)
