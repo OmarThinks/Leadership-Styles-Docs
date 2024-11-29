@@ -2,6 +2,8 @@
 
 ## Definitions:
 
+<img src="./images/leadership.jpg" width=600/>
+
 - `Leadership`: the ability of an individual, group, or organization to "lead", influence, or guide other individuals, teams, or organizations.
 - `Leadership Style`: The behavioral approach employed by leaders to influence, motivate, and direct their followers
 
@@ -12,7 +14,7 @@
 - People don't leave jobs, they leave managers
 - Personally, I resigned from 3 jobs due to bad leadership:
   1. After 1 day
-  2. After 1 week
+  2. After 4 days
   3. After 2.5 months (Just after having one conversation with the leader)
 
 ---
@@ -28,8 +30,9 @@
 
 <img src="./images/science.jpg" width=600 >
 
-- If you have to it, then why don't you do it a scientific way?
-- Why would you implement your personal views, and your life experience in the team?
+- If you have to do it, then why don't you do it a scientific way?
+- Why don't you look at the literature around this topic?
+- Why would you implement your personal views, and your life experience in work or family?
 - What if your life experience is not enough? or incorrect?
 
 ---
@@ -47,6 +50,12 @@
 - Increase satisfaction (In Family or Work)
 - Increase retention
 - Growth for your organization and the team members
+
+---
+
+<img src="./images/level.jpg" />
+
+- As you get higher managerial positions, you will need managerial skills
 
 ## A Mix:
 
