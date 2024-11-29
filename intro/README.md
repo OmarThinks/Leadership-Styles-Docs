@@ -23,7 +23,6 @@
   - Man: Career and Family
   - Woman: With her children
 - So, as much as you wish that you have a good leader, people under your leadership want you to become a better leader too
-- A good leader is more likely to increase the retention (In work or family) and be more effective
 
 ---
 
@@ -45,6 +44,9 @@
 <img src="./images/medal.jpg" width=600/>
 
 - You will be recognized if you are a good leader in the organization
+- Increase satisfaction (In Family or Work)
+- Increase retention
+- Growth for your organization and the team members
 
 ## A Mix:
 
