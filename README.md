@@ -8,10 +8,16 @@ Learning about Leadership Styles
 
 # Leadership Styles:
 
-- [Democratic Leadership](./styles/democratic/)
-- [Autocratic Leadership](./styles/autocratic/)
-- [Laissez-Faire Leadership](./styles/Laissez-Faire/)
-- [Transformational Leadership](./styles/transformational/)
-- [Transactional Leadership](./styles/transactional/)
-- [Bureaucratic Leadership](./styles/bureaucratic/)
-- [Servant Leadership](./styles/servant)
+- [Affiliative](./styles/affiliative/)
+- [Authoritarian](./styles/authoritarian/)
+- [Authoritative](./styles/authoritative/)
+- [Autocratic](./styles/autocratic/)
+- [Bureaucratic](./styles/bureaucratic/)
+- [Coaching](./styles/coaching/)
+- [Coercive](./styles/coercive/)
+- [Democratic](./styles/democratic/)
+- [Laissez-Faire](./styles/Laissez-Faire/)
+- [Pacesetting](./styles/pacesetting/)
+- [Servant](./styles/servant)
+- [Transactional](./styles/transactional/)
+- [Transformational](./styles/transformational/)
