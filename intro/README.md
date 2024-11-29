@@ -23,6 +23,7 @@
   - Man: Career and Family
   - Woman: With her children
 - So, as much as you wish that you have a good leader, people under your leadership want you to become a better leader too
+- A good leader is more likely to increase the retention (In work or family) and be more effective
 
 ---
 
